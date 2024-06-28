@@ -1,3 +1,5 @@
+/* Review and Join Employee Data Tables Using Multiple Join Operations*/
+
 --Select the names and job start dates of all employees who work for department number 5. 
 select E.F_NAME, E.L_NAME, JH.START_DATE
 from EMPLOYEES as E
